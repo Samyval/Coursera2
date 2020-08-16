@@ -53,7 +53,11 @@ body{
 	.navbar-default .navbar-collapse {
     border: none;
     background-color: #7D576C;
-}
+	}
+	.row > div > article {
+		width: 90%;
+		margin: 20px auto 0;
+	}
 }
 
 
